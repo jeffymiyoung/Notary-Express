@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+# Notary Express - The Note Taker App
